@@ -1,2 +1,2 @@
 # Portfolio
-Resume for a front-end Developer
+My Resume for a front-end Developer.
